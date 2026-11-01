@@ -15,7 +15,7 @@
 ```text
 CALLSIGN   Debasis Nishank
 STATION    AZEONICS · Full-Stack Developer & IoT / Cloud Developer (Integration)
-ORBIT      Bhubaneswar, India
+ORBIT      Thane, India
 LINK       Java · Spring · TypeScript · Python
 STATUS     NOMINAL · building, shipping, riding
 ```
