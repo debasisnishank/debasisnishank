@@ -38,6 +38,9 @@ I work at [Azeonics](https://www.azeonics.com/), a home for drones, satellites a
 BACKEND    Java · Spring Boot · Hibernate · Express · NestJS · Fastify · Deno · FastAPI
 FRONTEND   React · Next.js · TypeScript
 DATA       PostgreSQL · PostGIS · MySQL · MongoDB
+IOT        MQTT · HTTP / WebSocket · LoRaWAN · BLE · Modbus · CAN
+DEVICES    ESP32 · ESP8266 · Arduino · Raspberry Pi
+TELEMETRY  Time-series databases · Grafana
 CLOUD      Docker · Google Cloud · AWS
 ```
 
