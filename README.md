@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://debasisnishank.com">Portfolio</a> ·
+  <a href="https://debasisnishank.com"><b>debasisnishank.com</b></a> ·
+  <a href="https://signals.debasisnishank.com"><b>Signals</b></a> ·
   <a href="https://debasisnishank.com/resume.pdf">CV</a> ·
   <a href="https://linkedin.com/in/debasis-nishank-b47a00230">LinkedIn</a> ·
   <a href="https://www.youtube.com/@nishankmoto">YouTube</a> ·
